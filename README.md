@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - open `index.html` in your browser.
 - You can use live server.
 
-
+[see Live](https://sajid-munawar.github.io/code-review/)
 
 ## Authors
 
